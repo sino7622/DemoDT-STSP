@@ -1,2 +1,2 @@
-# DemoDT-STSP
- Digital Twin
+# DemoDT_STSP
+ Digital Twin Demo
